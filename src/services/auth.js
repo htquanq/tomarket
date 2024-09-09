@@ -75,7 +75,7 @@ class AuthService {
       const initData = dataUser.raw.replace(/\r/g, "");
       const body = {
         init_data: initData,
-        invite_code: "0000cwVd",
+        invite_code: "0000QEFb",
       };
       const bodyString = JSON.stringify(body);
 
